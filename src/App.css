@@ -1,0 +1,61 @@
+ion-toolbar {
+  --background: rgba(255, 255, 255, 0.94);
+  --border-color: #dbe2ee;
+}
+
+ion-tab-bar {
+  --background: #ffffff;
+  --border: 1px solid #dbe2ee;
+}
+
+ion-tab-button {
+  --color: #667085;
+  --color-selected: #0a7a6c;
+}
+
+ion-button {
+  --background: #0a7a6c;
+  --background-hover: #096c60;
+  --border-radius: 8px;
+  --box-shadow: none;
+  font-weight: 700;
+  text-transform: none;
+}
+
+ion-button[fill='clear'] {
+  --color: #0a7a6c;
+  --background: transparent;
+}
+
+ion-segment {
+  --background: #e8eef6;
+  border-radius: 8px;
+}
+
+ion-segment-button {
+  --border-radius: 7px;
+  --color: #526077;
+  --color-checked: #0a7a6c;
+  --indicator-color: #ffffff;
+  min-height: 40px;
+  text-transform: none;
+}
+
+ion-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border-radius: 999px;
+  font-weight: 700;
+}
+
+ion-progress-bar {
+  --background: #e8eef6;
+  --progress-background: #0a7a6c;
+  height: 8px;
+  border-radius: 999px;
+}
+
+ion-card-content {
+  padding: 18px;
+}

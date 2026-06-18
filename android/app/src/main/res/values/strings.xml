@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DermaPro</string>
+    <string name="title_activity_main">DermaPro</string>
+    <string name="package_name">com.dermapro.app</string>
+    <string name="custom_url_scheme">com.dermapro.app</string>
+</resources>
